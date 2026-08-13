@@ -1,0 +1,15 @@
+.env
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.idea/
+.vscode/
+.DS_Store
+*.log
+
+# Local MatchMate data files
+teams.csv
+players.csv
+matches.csv
